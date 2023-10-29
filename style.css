@@ -69,6 +69,17 @@ h1{
     padding-right: 3.25rem;
     border: none;
 }
+.copyright {
+    width: 100%;
+    text-align: center;
+    padding: 15px 0;
+    background: #262626;
+    font-weight: 300;
+    margin-top: 20px;
+    font-size: 18px;
+    color: white;
+    font-family: 'Edu SA Beginner', "cursive";
+}
 
 .display::placeholder{
     position: absolute;
